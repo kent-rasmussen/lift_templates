@@ -9061,7 +9061,7 @@
         </lexical-unit>
         <trait name="morph-type" value="stem" />
         <sense id="hiccough (n)_1ccc8557-8df9-4186-ac91-f1dc40ba6227">
-            <grammatical-info value="noun" />
+            <grammatical-info value="Noun" />
             <gloss lang="en">
                 <text>hiccough (n)</text>
             </gloss>
@@ -18573,7 +18573,7 @@
         </lexical-unit>
         <trait name="morph-type" value="stem" />
         <sense id="headache_204e41b3-890b-4117-babc-3913968b2100">
-            <grammatical-info value="noun" />
+            <grammatical-info value="Noun" />
             <gloss lang="en">
                 <text>headache</text>
             </gloss>
@@ -18651,7 +18651,7 @@
         </lexical-unit>
         <trait name="morph-type" value="stem" />
         <sense id="diarrhea_a858bbb3-89e3-48ec-a46a-04cf799eec31">
-            <grammatical-info value="noun" />
+            <grammatical-info value="Noun" />
             <gloss lang="en">
                 <text>diarrhea</text>
             </gloss>
@@ -45423,7 +45423,7 @@
         </lexical-unit>
         <trait name="morph-type" value="stem" />
         <sense id="feast_cf70eb46-6d95-4ca5-bf03-7eda5ffd8258">
-            <grammatical-info value="verb" />
+            <grammatical-info value="Verb" />
             <gloss lang="en">
                 <text>feast</text>
             </gloss>
@@ -47403,7 +47403,7 @@
                 <text>bake (in ashes)</text>
             </gloss>
             <gloss lang="fr">
-                <text>? ?</text>
+                <text>? ?</text>
             </gloss>
             <gloss lang="ha-CL">
                 <text>gasa beradi</text>
@@ -123240,7 +123240,7 @@
         </lexical-unit>
         <trait name="morph-type" value="stem" />
         <sense id="(be) brown_faa358a6-6484-4198-9716-752a93c5ce2d">
-            <grammatical-info value="verb" />
+            <grammatical-info value="Verb" />
             <gloss lang="en">
                 <text>(be) brown</text>
             </gloss>
@@ -125162,7 +125162,7 @@
         </lexical-unit>
         <trait name="morph-type" value="stem" />
         <sense id="(be) clean_20941096-b8c1-41ae-b9d7-f576e7dec1e8">
-            <grammatical-info value="verb" />
+            <grammatical-info value="Verb" />
             <gloss lang="en">
                 <text>(be) clean</text>
             </gloss>
